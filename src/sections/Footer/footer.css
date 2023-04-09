@@ -1,0 +1,14 @@
+.footer {
+  background-color: rgb(16 34 39 / 90%);
+  color: rgb(178 164 164);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.data {
+  align-items: center;
+  justify-content: center;
+  padding-top: 30px;
+}
